@@ -1,0 +1,25 @@
+/*
+Free to use CSS template by Katie (#106445).
+This code may be altered, edited, or re-uploaded. 
+This template may be used to create paid codes (pre-mades and commissions).
+Please do NOT remove this credit, unless your coding becomes unrecognizable from this one! 
+*/
+
+
+/* FONT (From Google Fonts) */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&display=swap'); /* "Edu AU VIC WA NT Pre", cursive; */
+
+
+/* BACKGROUND */
+
+
+body {
+	background: url('https://i.ibb.co/QpG3Zwd/6pb16buk.png') center center fixed;
+	background-size: 100%;
+	font-family: "Edu AU VIC WA NT Pre", cursive;
+	color: #2e2a2b
+}
+
+
